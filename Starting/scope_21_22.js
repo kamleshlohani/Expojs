@@ -16,10 +16,11 @@ if (true) {
 
 function one(){
     const username = "hitesh"
-
+console.log("sam")
     function two(){
         const website = "youtube"
         console.log(username);
+        console.log("Kamlesh")
     }
     // console.log(website);
 
@@ -27,16 +28,16 @@ function one(){
 
 }
 
-// one()
+one()
 
-if (true) {
-    const username = "hitesh"
-    if (username === "hitesh") {
-        const website = " youtube"
+// if (true) {
+//     const username = "hitesh"
+//     if (username === "hitesh") {
+//         const website = " youtube"
         // console.log(username + website);
-    }
+    //}
     // console.log(website);
-}
+//}
 
 // console.log(username);
 
@@ -44,15 +45,15 @@ if (true) {
 // ++++++++++++++++++ interesting ++++++++++++++++++
 
 
-console.log(addone(5))
+// console.log(addone(5))
 
-function addone(num){
-    return num + 1
-}
+// function addone(num){
+//     return num + 1
+// }
 
 
 
-addTwo(5)
-const addTwo = function(num){
-    return num + 2
-}
+// addTwo(5)
+// const addTwo = function(num){
+//     return num + 2
+// }
