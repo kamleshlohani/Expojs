@@ -53,7 +53,7 @@ one()
 
 
 
-// addTwo(5)
+// addTwo(5) will throw an eroor because we are trying to access addtwo before initialization
 // const addTwo = function(num){
 //     return num + 2
 // }
