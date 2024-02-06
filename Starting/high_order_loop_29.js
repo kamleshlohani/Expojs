@@ -1,3 +1,5 @@
+//1
+
 // for of
 
 // ["", "", ""]
@@ -43,14 +45,14 @@ const myObject = {
 
 //four
 
-const myObject = {
+const myObjects = {
     js: 'javascript',
     cpp: 'C++',
     rb: "ruby",
     swift: "swift by apple"
 }
 
-for (const key in myObject) {
+for (const key in myObjects) {
     //console.log(`${key} shortcut is for ${myObject[key]}`);
 }
 
